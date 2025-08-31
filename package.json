@@ -1,0 +1,16 @@
+{
+  "name": "excel-to-csv",
+  "version": "1.0.0",
+  "description": "Convert Excel (.xlsx) files to CSV, sheet by sheet.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
